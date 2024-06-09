@@ -1,6 +1,5 @@
-#VBA Excel
-
-Purpose: VBA scripts for Excel which are either compiled codes or created codes.
+<meta name="google-site-verification" content="SJniPJk1_KNq99TrywyxBlwR9pJy56Fy6pqiVZ-0T9I" />
+#VBA Excel - Purpose: VBA scripts for Excel which are either compiled codes or created codes.
 
 
 # Excel VBA Public Scripts
