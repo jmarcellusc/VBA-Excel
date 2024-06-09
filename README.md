@@ -10,7 +10,9 @@ These are public minor scripts in VBA to be use in Excel. They accomplished vari
 2.  **Grids.bas**  -  "Creates grids on selected range of cells and clears out all other grids outside of the selection."
 3.  **DeleteBlankRows.bas**  -  "Deletes blank entire row based on only a single column selection."
 4.  **RemoveReturns.bas**  -  "Replaces carrage returns with spaces (removes returns lines)."
-5.  **CombineRows.bas**  -  "Combines selected column range of rows into a single concat row (with space as a delimiter)." 	
+5.  **CombineRows.bas**  -  "Combines selected column range of rows into a single concat row (with space as a delimiter)."
+6.  **CompareTwoRanges.bas**  -  "Compares two selected vertical column regions."
+7.  **ExcelSheetToCSV.bas**  -  "Exports the current excel worksheet to a directory as a CSV."
 
 ## Updates
 
