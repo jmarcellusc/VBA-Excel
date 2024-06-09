@@ -13,6 +13,7 @@ These are public minor scripts in VBA to be use in Excel. They accomplished vari
 5.  **CombineRows.bas**  -  "Combines selected column range of rows into a single concat row (with space as a delimiter)."
 6.  **CompareTwoRanges.bas**  -  "Compares two selected vertical column regions."
 7.  **ExcelSheetToCSV.bas**  -  "Exports the current excel worksheet to a directory as a CSV."
+8.  **SpellCheckWords.bas**  -  "Spell Checker, will change the font color of flagged words."
 
 ## Updates
 
