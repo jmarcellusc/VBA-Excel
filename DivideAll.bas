@@ -17,9 +17,6 @@ Public Sub DivideAll()
          divValue = InputBox("Please enter a number to divide:")
      Wend
     
-    'MsgBox divValue
-    
-    
     
     ' Process Selected
     Set selectedRange = Application.Selection
